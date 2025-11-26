@@ -1,3 +1,4 @@
+# Kata: https://www.codewars.com/kata/526c7b931666d07889000a3c
 import random
 def interpret(code):
     output = ""

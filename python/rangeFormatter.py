@@ -1,3 +1,4 @@
+# Kata: https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
 def solution(args):
     lists = [[]]
     lists[0].append(args.pop(0))
